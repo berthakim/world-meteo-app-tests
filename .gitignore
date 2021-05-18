@@ -130,4 +130,4 @@ dmypy.json
 
 
 # API-key of OpenWeatherMap
-.config.py
+config.py
